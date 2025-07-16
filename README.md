@@ -31,17 +31,3 @@ This notebook contains a comprehensive example of:
   pip install pandas requests matplotlib seaborn numpy
   ```
 
-## Usage
-
-1. Clone this repository
-2. Install the required dependencies
-3. Open the Jupyter notebook
-4. Run the cells to execute the automated data pipeline
-
-## Credit
-
-This project is based on the work by Alex The Analyst. Original source: [PortfolioProjects](https://github.com/AlexTheAnalyst/PortfolioProjects)
-
-## License
-
-This project is for educational purposes.
